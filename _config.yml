@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: [Cascade Theory]
 description: [The year is 2038]
+theme-color: "#99ccff"

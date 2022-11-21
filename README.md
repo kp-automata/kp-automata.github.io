@@ -1,4 +1,3 @@
-# kp-automata.github.io
 ```   _  __     ___  
  | |/ /    | _ \ 
  | ' <     |  _/ 
